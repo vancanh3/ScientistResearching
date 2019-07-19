@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorAssemblyInfo.cache
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorAssemblyInfo.cs
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.AssemblyInfo.cs
+C:\Users\Adam\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.deps.json
+C:\Users\Adam\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.runtimeconfig.json
+C:\Users\Adam\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.dll
+C:\Users\Adam\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.2\TweetBook.pdb
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.RazorTargetAssemblyInfo.cache
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.dll
+C:\Users\Adam\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.2\TweetBook.pdb
